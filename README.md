@@ -10,4 +10,4 @@ Machine Learning Deep Learning model deployment course on Udemy from FutureX Ski
 :white_check_mark: Simple Model building with Scikit-Learn , TensorFlow and PyTorch \
 :white_check_mark: TensorFlow Serving and extracting weights from PyTorch Models \
 :white_check_mark: Deploying tf-idf and text classifier models for Twitter sentiment analysis \
-:white_check_mark: Machine Learning experiment and deployment using MLflow \
+:white_check_mark: Machine Learning experiment and deployment using MLflow 

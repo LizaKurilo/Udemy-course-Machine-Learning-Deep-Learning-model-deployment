@@ -1,4 +1,4 @@
-# Udemy-course-Machine-Learning-Deep-Learning-model-deployment
+# Udemycourse: ML/DL model deployment
 
 Machine Learning Deep Learning model deployment course on Udemy from FutureX Skill.
 

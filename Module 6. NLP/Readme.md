@@ -9,4 +9,4 @@
 ✔️ Twitter sentiment analysis with PyTorch REST API [04_twitter_sentiment_client.ipynb](https://github.com/LizaKurilo/Udemy-course-Machine-Learning-Deep-Learning-model-deployment/blob/main/Module%206.%20NLP/04_twitter_sentiment_client.ipynb) and [03-client_for_pytorch_model.py](https://github.com/LizaKurilo/Udemy-course-Machine-Learning-Deep-Learning-model-deployment/blob/main/Module%206.%20NLP/03_pytorch_npl_rest.ipynb) \
 ✔️ Creating a text classifier using TensorFlow [05_text_classifier_tensorflow.ipynb](https://github.com/LizaKurilo/Udemy-course-Machine-Learning-Deep-Learning-model-deployment/blob/main/Module%206.%20NLP/05_text_classifier_tensorflow.ipynb) \
 ✔️ Creating a REST API for TensforFlow models using Flask [06_nlp_sentiment_with_flask.ipynb](https://github.com/LizaKurilo/Udemy-course-Machine-Learning-Deep-Learning-model-deployment/blob/main/Module%206.%20NLP/06_nlp_sentiment_with_flask.ipynb) \
-✔️ Serving TensorFlow models serverless
+✔️ Serving TensorFlow/PyTorch models serverless

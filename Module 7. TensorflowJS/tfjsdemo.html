@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+ </head>
+ <body>
+     <h1>Tensorflow.js model usage</h1>
+     <p>Prediction: </p>
+     <p id='demo'> </p>
+     <script>
+         // Train model with fit()
+         console.log('started');
+         async function loadModel(){
+             const model = await tf.loadLayersModel('model.json');
+             prediction = model.predict(tf.tensor2d([[-0.15065689, -0.34524533]]));
+             prediction.print();
+             document.getElementById("demo").innerHTML = prediction;
+             return prediction
+         }
+        //  function indexOfMax(arr) {
+        //     if (arr.length === 0) {
+        //         return -1;
+        //     }
+
+        //     var max = arr[0];
+        //     var maxIndex = 0;
+
+        //     for (var i = 1; i < arr.length; i++) {
+        //         if (arr[i] > max) {
+        //             maxIndex = i;
+        //             max = arr[i];
+        //         }
+        //     }
+
+        //     return maxIndex;
+        // }
+         loadModel();
+
+     </script>
+
+ </body>
+ </html>

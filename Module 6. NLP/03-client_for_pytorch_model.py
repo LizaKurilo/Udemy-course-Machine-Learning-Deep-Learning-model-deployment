@@ -9,9 +9,9 @@ Created on Tue Apr 20 16:24:32 2021
 import json
 import requests
 
-url = 'http://0370826f1e01.ngrok.io/predict'
+url = 'https://us-central1-coastal-mender-307721.cloudfunctions.net/nlp-tf-demo'
 
-request_data = json.dumps({'sentence':'Bad perfomance by India'})
+request_data = json.dumps({'sentence':'good perfomance by India'})
 response = requests.post(url, request_data)
 
 print(response.text)

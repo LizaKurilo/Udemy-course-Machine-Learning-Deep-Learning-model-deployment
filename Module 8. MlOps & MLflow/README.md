@@ -12,3 +12,4 @@ With MLflow you can ..
   3. .. deploy ,odels easily in any cloud enviroment
  
 <img src="https://github.com/LizaKurilo/Udemy-course-Machine-Learning-Deep-Learning-model-deployment/blob/main/Module%208.%20MlOps%20%26%20MLflow/assets/mlflow-components2.png" width="700" height="300">
+<img src="https://github.com/LizaKurilo/Udemy-course-Machine-Learning-Deep-Learning-model-deployment/blob/main/Module%208.%20MlOps%20%26%20MLflow/assets/mlfow.jpg" width="700" height="400">

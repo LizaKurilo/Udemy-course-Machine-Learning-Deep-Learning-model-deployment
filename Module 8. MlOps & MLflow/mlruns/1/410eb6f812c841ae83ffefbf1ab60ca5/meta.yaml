@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lizaveta.kuryla/courses/Udemy-course-Machine-Learning-Deep-Learning-model-deployment/Module%208.%20MlOps%20%26%20MLflow/mlruns/1/410eb6f812c841ae83ffefbf1ab60ca5/artifacts
+end_time: 1619780239217
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 410eb6f812c841ae83ffefbf1ab60ca5
+run_uuid: 410eb6f812c841ae83ffefbf1ab60ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619780239180
+status: 3
+tags: []
+user_id: lizaveta.kuryla

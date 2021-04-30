@@ -1,6 +1,4 @@
-# Udemy course: ML/DL model deployment
-
-Machine Learning Deep Learning model deployment course on Udemy from FutureX Skill.
+# MLOps & MLflow
 
 ## Skills acquired during the course: 
 :white_check_mark: Machine Learning Deep Learning Model Deployment techniques \
